@@ -1,13 +1,22 @@
 # main links links
 main:
-  - title: "学习内容"
+  - title: "Publications"
     url: /publications/
 
-  - title: "经历"
-    url: /sass/    
-
-  - title: "学校"
+  - title: "Talks"
     url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
     
-  - title: "老师"
-    url: /teaching/
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
