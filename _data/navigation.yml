@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "学习内容"
-    url: /_publications/
+    url: /publications/
 
   - title: "经历"
-    url: /_sass/    
+    url: /sass/    
 
   - title: "学校"
-    url: /_talks/    
+    url: /talks/    
     
   - title: "老师"
-    url: /_teaching/
+    url: /teaching/
