@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Li Hao's personal homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "李浩"
 description              : &description "personal description"
 url                      : https://shujuli.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "李浩"
+  name             : "lihao(李浩)"
   avatar           : "lihao.png"
-  bio              : "一个喜欢软件的代码人"
+  bio              : "一个喜欢软件的大学生"
   location         : "河北石家庄"
   employer         :
   pubmed           : #"https://shujuli.github.io/"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
