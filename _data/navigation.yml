@@ -7,7 +7,7 @@ main:
     url: /_sass/    
 
   - title: "学校"
-    url: /talks/    
+    url: /_talks/    
     
   - title: "老师"
     url: /_teaching/
