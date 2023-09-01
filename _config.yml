@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "李浩的个人主页"
+title                    : "Li Hao's personal homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
