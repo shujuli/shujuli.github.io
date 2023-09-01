@@ -83,10 +83,10 @@ author:
   name             : "李浩"
   avatar           : "lihao.png"
   bio              : "一个喜欢软件的代码人"
-  location         : "Location"
+  location         : "河北石家庄"
   employer         :
-  pubmed           : "https://shujuli.github.io/"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://shujuli.github.io/"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
