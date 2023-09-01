@@ -1,16 +1,16 @@
 # main links links
 main:
- # - title: "学校"
-    url: /publications/
+# - title: "学校"
+#    url: /publications/
 
- # - title: "学习经历"
-    url: /talks/    
+# - title: "学习经历"
+#    url: /talks/    
 
   - title: "学习经历"
     url: /teaching/    
     
 #  - title: "Portfolio"
-    url: /portfolio/
+#    url: /portfolio/
         
   - title: "博客"
     url: /year-archive/
@@ -18,5 +18,5 @@ main:
   - title: "简历"
     url: /cv/
     
- # - title: "Guide"
-    url: /markdown/
+# - title: "Guide"
+#    url: /markdown/
