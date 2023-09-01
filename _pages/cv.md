@@ -9,51 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+基本信息
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 姓名：李浩   性别：男    出生年月：2001.7
+* 手机：15131896337
+* QQ：2727412967
+* 邮箱：2727412967@qq.com
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+教育类
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2016.09-2020.06    河北枣强中学      高中
+* 2020.09至今      石家庄铁道大学     本科
+  
+技能
+======
+* 技能 1：具备一定的Java编辑基础
+* 技能 2：对大数据应用技术有一定的了解
 
-Publications
+
+毕业生自我鉴定
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 在学习上我积极向上热衷于探索为止和提高自己，接触和学习一些新知识，使得自己更近一步；在生活上我有着良好的作息时间合理的安排好了生活中的琐事，不会被其所打扰；在思想上我会认真听取他人的意见更好的完善自己。在校期间进行了很多Java案例练习，有一定的Java编辑基础
