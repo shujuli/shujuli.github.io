@@ -1,9 +1,9 @@
 ---
 title: "大学三年级课程"
 collection: 学业
-type: "Workshop"
+type: "石家庄铁道大学"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "信息科学与技术学院软件工程系"
 date: 2023-09-01
 location: "石家庄, 中国"
 ---
