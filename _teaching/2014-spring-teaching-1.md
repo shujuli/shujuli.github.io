@@ -1,6 +1,6 @@
 ---
 title: "大学二年级学习课程"
-collection: teaching
+collection: 学业
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
