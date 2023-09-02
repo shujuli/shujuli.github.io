@@ -1,7 +1,7 @@
 ---
 title: '构建之法读后感'
 date: 2022-02-25
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2012/08/future-post/
 
 ---
 
